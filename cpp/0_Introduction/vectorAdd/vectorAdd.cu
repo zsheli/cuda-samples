@@ -198,4 +198,3 @@ int main(void)
     printf("Done\n");
     return 0;
 }
-// Modified for CUDA vector addition operator
